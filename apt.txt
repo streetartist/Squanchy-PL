@@ -1,1 +1,3 @@
 clang
+llc
+gcc
